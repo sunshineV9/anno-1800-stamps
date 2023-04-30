@@ -1,5 +1,4 @@
-# Anno1800Stamps
-Anno 1800 stamps
+# Anno 1800 Stamps
 
 This repo contains some minor stamps that are usefull for Anno 1800, for now only old and new world stamps are available.
 
